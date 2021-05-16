@@ -1,0 +1,25 @@
+{
+    "canonical_board": {
+        "tl_tr_br_bl": [
+            [
+                611,
+                1798
+            ],
+            [
+                1031,
+                173
+            ],
+            [
+                2715,
+                168
+            ],
+            [
+                3124,
+                1746
+            ]
+        ],
+        "bar_width_to_checker_width": 0.774,
+        "board_width_to_board_height": 1.0,
+        "pip_length_to_board_height": 0.41500000000000004
+    }
+}
