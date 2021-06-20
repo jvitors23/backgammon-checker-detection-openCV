@@ -8,10 +8,14 @@
 4. Output a visual feedback image drawing the located checkers
 5. Count the number of checkers on each "pip" (each triangle) on the board, and output this as a JSON
 
+
 Input:
+
 ![Input image](bgsamples/p40_20190821_122507.jpg)
 
+
 Output:
+
 ![Input image](output/p40_20190821_122507.visual_feedback.jpg)
 
 ## Results:
